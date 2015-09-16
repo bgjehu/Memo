@@ -1,0 +1,50 @@
+*********************************************************************
+development for future version
+
+v4.1 topmost function for every single memo
+v4.2 pick your color for text
+v4.3 position memorizing for every single memo
+v4.4 uninstalled packed in installer
+v4.5 .Net Framework 4.5 Downloading packed in installer
+v4.6 selfrepair function packed in uninstaller
+v4.7 random color for memo
+v4.8 feature theme for memo
+v4.9 color-coded function for userdefined classes memo
+
+*********************************************************************
+4/9/2014
+v4.0.1
+cancelled the option of not running application after installation
+
+4/8/2014
+v4.0
+added functionality of using userdefined path for the location of the application by add version, installation path, and installlation time info in to registry
+packed executable application into installer
+added option of shortcut, userdefined path, and run application after installation into installer
+added requesting admin for running installer and application (clickonce)
+added option of change memo color
+added option of switch on/off for Windows startup function in setting menu
+
+
+4/7/2014
+v3.0
+attempting to using userdefined path
+attempting to pack executable application into installer
+added functionality of running application when Windows starts by add value of subkey into registry
+added functionality of deleting single memo
+
+
+
+
+4/6/2014
+v2.0
+combined two functionalities into one executable file
+added functionalities of hiding and deleting all memo
+added functionality of cleaning data directory while exit the application
+
+
+4/5/2014
+v.1.0
+independent executable files for "loading memo" functionality and "add new memo" functionality
+fixed path for loading and storing data
+draging functionality for whole memo form

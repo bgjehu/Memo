@@ -1,0 +1,20 @@
+D:\Dropbox\Dev\Stuffs\Memo\Memo\bin\Debug\Memo.exe.config
+D:\Dropbox\Dev\Stuffs\Memo\Memo\bin\Debug\Memo.exe
+D:\Dropbox\Dev\Stuffs\Memo\Memo\bin\Debug\Memo.pdb
+D:\Dropbox\Dev\Stuffs\Memo\Memo\obj\Debug\Memo.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dev\Stuffs\Memo\Memo\obj\Debug\Memo.mainframe.resources
+D:\Dropbox\Dev\Stuffs\Memo\Memo\obj\Debug\Memo.Properties.Resources.resources
+D:\Dropbox\Dev\Stuffs\Memo\Memo\obj\Debug\Memo.csproj.GenerateResource.Cache
+D:\Dropbox\Dev\Stuffs\Memo\Memo\obj\Debug\Memo.exe
+D:\Dropbox\Dev\Stuffs\Memo\Memo\obj\Debug\Memo.pdb
+D:\Dropbox\Dev\Stuffs\Memo\Memo\obj\Debug\Memo.Memo.resources
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\bin\Debug\Memo.exe.config
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\obj\Debug\Memo.exe
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\obj\Debug\Memo.pdb
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\bin\Debug\Memo.exe
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\bin\Debug\Memo.pdb
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\obj\Debug\Memo.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\obj\Debug\Memo.mainframe.resources
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\obj\Debug\Memo.Memo.resources
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\obj\Debug\Memo.Properties.Resources.resources
+D:\Dropbox\Dev\Stuffs\Memo\Memo V1-2\Memo\Memo\obj\Debug\Memo.csproj.GenerateResource.Cache

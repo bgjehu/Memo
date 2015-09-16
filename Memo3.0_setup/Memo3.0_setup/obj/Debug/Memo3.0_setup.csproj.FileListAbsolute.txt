@@ -1,0 +1,11 @@
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\bin\Debug\Memo3.0_setup.exe.config
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\bin\Debug\Memo3.0_setup.exe
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\bin\Debug\Memo3.0_setup.pdb
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\obj\Debug\Memo3._0_setup.Properties.Resources.resources
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\obj\Debug\Memo3.0_setup.csproj.GenerateResource.Cache
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\obj\Debug\Memo3.0_setup.exe
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\obj\Debug\Memo3.0_setup.pdb
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\obj\Debug\Memo3._0_setup.Installer.resources
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\obj\Debug\Memo3.0_setup.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Dropbox\Dev\Stuffs\Memo3.0_setup\Memo3.0_setup\obj\Debug\Memo3.0_setup.csproj.ResolveComReference.cache

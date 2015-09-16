@@ -1,0 +1,9 @@
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\bin\Debug\new Note.exe.config
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\bin\Debug\new Note.exe
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\bin\Debug\new Note.pdb
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\obj\Debug\new Note.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\obj\Debug\new_Note.Properties.Resources.resources
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\obj\Debug\new Note.csproj.GenerateResource.Cache
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\obj\Debug\new Note.exe
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\obj\Debug\new Note.pdb
+D:\Dropbox\Dev\Stuffs\Win8Note\new Note\new Note\obj\Debug\new_Note.Note.resources

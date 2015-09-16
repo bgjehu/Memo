@@ -1,0 +1,9 @@
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\bin\Debug\load Note.exe.config
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\bin\Debug\load Note.exe
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\bin\Debug\load Note.pdb
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\obj\Debug\load_Note.Note.resources
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\obj\Debug\load_Note.Properties.Resources.resources
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\obj\Debug\load Note.csproj.GenerateResource.Cache
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\obj\Debug\load Note.exe
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\obj\Debug\load Note.pdb
+D:\Dropbox\Dev\Stuffs\Win8Note\load Note\load Note\obj\Debug\load_Note.Form0.resources

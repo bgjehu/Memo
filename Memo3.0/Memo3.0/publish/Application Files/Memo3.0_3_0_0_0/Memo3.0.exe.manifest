@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Memo3.0.exe" version="3.0.0.0" publicKeyToken="dccceb6ecb99672e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Memo3.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Memo3.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Memo3.0.exe" size="1698304">
+      <assemblyIdentity name="Memo3.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uJ08ZLv+QRlQukuVMSFVgTu4tVbph6yMLKaUf2NX6AU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Memo3.0.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=BG-DESKTOP\User" issuerKeyHash="13973622491cfd2b33937372a33b46bf8be67b25" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>sT9TfHkrL2uIcQQqdzO6F55hyyZN3uU577a7dG8B4XU=</DigestValue></Reference></SignedInfo><SignatureValue>BrllQNdF7UWxHzW0VtwTDbxf0vrBgcWIqzjr+bRMRojy+UKtDQMg11plPvLgjDJ4n8GN67LCvBkdMpEnJMMPJDwYzezJuiTio6zWeAghQCSW8bK5++mqeNNKPaYc/rZ5pPwOSKAnatGeq2xB+1QAP8FMBfZPDmStZwpSmSgWldE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>m+C2/p83BN+7dvaMtY+cXlfL+nMMCU8536K+koAAxWYOmTv36/g7+KZaGG/t2VSyv/RQZn513XGApAEAMX//CZugEG1RS+X0ECbE4IoLV51Jq1NMfpY7yPlNshiuavjujzkqnaZ+CNS3Zh76uSC0tkCbL9Dhgca2AMabqBy5z40=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="75e1016f74bbb6ef39e5de4d26cb619e17ba33772a0471886b2f2b797c533fb1" Description="" Url=""><as:assemblyIdentity name="Memo3.0.exe" version="3.0.0.0" publicKeyToken="dccceb6ecb99672e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BG-DESKTOP\User</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JEM3vvxn45SZ0t4sBQ66A8Wu6uTFJyQcHNdesVoJtk0=</DigestValue></Reference></SignedInfo><SignatureValue>VDXRv+Yyt3vds9V5OJNBCqbkXfjUJ9eYF7ccntDMKW659nFM7a7ylxlfzgXQ+UsS8exjR/ARyyWa4TG9ikirB6n2RM8xDODotzEBnbw64Uoj2JbdoKMacMoRX7L8tE//dxcvZGQyjSFCMthNRDPrBCe+4TV3UJKBJG/PmMEcdV8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>m+C2/p83BN+7dvaMtY+cXlfL+nMMCU8536K+koAAxWYOmTv36/g7+KZaGG/t2VSyv/RQZn513XGApAEAMX//CZugEG1RS+X0ECbE4IoLV51Jq1NMfpY7yPlNshiuavjujzkqnaZ+CNS3Zh76uSC0tkCbL9Dhgca2AMabqBy5z40=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQGi3sWPrvn6REmctieLz2UTANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4AQgBHAC0ARABFAFMASwBUAE8AUABcAFUAcwBlAHIwHhcNMTQwNDA2MTc1MzA5WhcNMTUwNDA2MjM1MzA5WjApMScwJQYDVQQDHh4AQgBHAC0ARABFAFMASwBUAE8AUABcAFUAcwBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJvgtv6fNwTfu3b2jLWPnF5Xy/pzDAlPOd+ivpKAAMVmDpk79+v4O/imWhhv7dlUsr/0UGZ+dd1xgKQBADF//wmboBBtUUvl9BAmxOCKC1edSatTTH6WO8j5TbIYrmr47o85Kp2mfgjUt2Ye+rkgtLZAmy/Q4YHGtgDGm6gcuc+NAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAXcKpvsX7SP8lIiqwi6l4LR7ngFff6bQzkCjRbSzXEuJ3cSUSEiN0DAlekXrZY2LNSWG1wkLuaiAZaQu2DSZyvmWv4FlatQs+aVQ03X3ZikSJecLAWzf+1XnY+lGqpFsj8KNzNpSxBUMDkYSIBWlI/PygVuz8IwMV4ZE4AkLB0Ns=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
